@@ -1,6 +1,6 @@
 # Netflix Clone - React.js
 
-### See The Live Site [Solar System App](https://aldothedev.github.io/SolarSystem-React/)
+### See The Live Site [Solar System App](https://vibrant-boyd-2074fc.netlify.app/browse)
 
 ### Built with
 
