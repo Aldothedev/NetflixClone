@@ -1,3 +1,17 @@
+# Solar System App- React.js
+
+### See The Live Site [Solar System App](https://aldothedev.github.io/SolarSystem-React/)
+
+### Built with
+
+- Semantic HTML5 markup
+- sass custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [parceljs](https://parceljs.org/) - sass compiler and bundler
+- [gsap](https://greensock.com/get-started/) - animation library
+
 # Getting Started with Create React App
 
 Check Out The App Here https://aldothedev.github.io/task-tracker-react/
