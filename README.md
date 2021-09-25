@@ -1,4 +1,4 @@
-# Solar System App- React.js
+# Netflix Clone - React.js
 
 ### See The Live Site [Solar System App](https://aldothedev.github.io/SolarSystem-React/)
 
