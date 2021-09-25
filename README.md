@@ -2,15 +2,16 @@
 
 ### See The Live Site [Netflix Clone](https://vibrant-boyd-2074fc.netlify.app)
 
-### Built with
-
+### Front End
+- React.js
+- JavaScript es6
+- Css Flexbox
 - Semantic HTML5 markup
-- sass custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [parceljs](https://parceljs.org/) - sass compiler and bundler
-- [gsap](https://greensock.com/get-started/) - animation library
+
+### Back End
+- Firebase to handle OAuth/Sign up
+- User Data
+- Netlify hosting
 
 # Getting Started with Create React App
 
